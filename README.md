@@ -10,7 +10,7 @@ GDP per capita
 health expenditure
 Obesity rate
 
-Interesting/Fun
+Interesting/Fun/Novel
 
 alcohol consumption per capita
 some social openness score
@@ -19,6 +19,7 @@ some sexual openness score (i.e. number of partners)
 some score for inter-generational mixing
 unemployment
 some criminality score (estimate of black market economy size as share of population)
+Vaccine hesitancy
 
 
 Based on Restiction Measures (comparing the following data points to when first cases were detected)
@@ -27,4 +28,4 @@ when/which/for how long flights were cancelled
 when/which/for how long internal travel was prevented
 when/which/for how long businesses were closed
 when/which/for how long central isolation was adopted
-when/which/for how long covid mass testing polict was enacted
+when/which/for how long mass covid testing policy was enacted
