@@ -4,11 +4,11 @@ Variables that we might consider
 
 Normal
 
-Age of Population
-Percentage of Population over 65
-GDP per capita
-health expenditure
-Obesity rate
+Age of Population,
+Percentage of Population over 65,
+GDP per capita,
+health expenditure,
+Obesity rate,
 
 Interesting/Fun/Novel
 
