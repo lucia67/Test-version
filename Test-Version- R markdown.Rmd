@@ -1,0 +1,16 @@
+---
+title: "Reproducability Sheet"
+author: "Group 23"
+date: "16/06/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Covid predictor
+
+```{r, echo = FALSE}
+WHO.data <- read.csv("https://covid19.who.int/WHO-COVID-19-global-data.csv")
+```
